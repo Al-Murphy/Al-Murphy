@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Alan Murphy 👋
 
 <!--
 **Al-Murphy/Al-Murphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a PhD Student in the neurogenomics lab in the UK DRI at Imperial College London. My work focuses on computational biology
+and machine learning. 
+
+Helpful documentation:
+
+* [Complete Documentation for Creating and Maintaining a Bioconductor package](https://gist.github.com/Al-Murphy/25bd190464312c233d4768a4716040bb)
