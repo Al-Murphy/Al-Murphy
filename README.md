@@ -20,4 +20,4 @@ and machine learning.
 
 Helpful documentation:
 
-* [Complete Documentation for Creating and Maintaining a Bioconductor package](https://gist.github.com/Al-Murphy/25bd190464312c233d4768a4716040bb)
+* [Complete Documentation for Creating and Maintaining a Bioconductor package](https://github.com/neurogenomics/labwiki/wiki/Creating-a-Bioconductor-package)
