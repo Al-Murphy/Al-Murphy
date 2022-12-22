@@ -20,7 +20,9 @@ and machine learning.
 
 **First Author Publications**:
 
-* [MungeSumstats](https://www.biorxiv.org/content/10.1101/2021.06.21.449239v1): Bioconductor R package for the standardisation and quality control of GWAS summary statistics to address the lack of standardisation in the field. MungeSumstats can handle the most common summary statistic formats, including variant call format (VCF) producing a reformatted, standardised, tabular summary statistic file, VCF or R native data object.
+* [A balanced measure shows superior performance of pseudobulk methods in single-cell RNA-sequencing analysis.](https://rdcu.be/c15sA) Nat. Commun. 13, 1–4 (2022)
+
+* [MungeSumstats: a Bioconductor package for the standardization and quality control of many GWAS summary statistics.](https://academic.oup.com/bioinformatics/article/37/23/4593/6380562) Bioinformatics 37, 4593–4596 (2021).
 
 **Software**:
 
