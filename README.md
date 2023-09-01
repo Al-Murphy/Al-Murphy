@@ -16,13 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a PhD Student in the neurogenomics lab in the UK DRI at Imperial College London. My work focuses on computational biology
-and machine learning. 
-
-**First Author Publications**:
-
-* [A balanced measure shows superior performance of pseudobulk methods in single-cell RNA-sequencing analysis.](https://rdcu.be/c15sA) Nat. Commun. 13, 1–4 (2022)
-
-* [MungeSumstats: a Bioconductor package for the standardization and quality control of many GWAS summary statistics.](https://academic.oup.com/bioinformatics/article/37/23/4593/6380562) Bioinformatics 37, 4593–4596 (2021).
+and machine learning. See my [personal website](https://al-murphy.github.io/) to learn more about my work and experience.
 
 **Software**:
 
