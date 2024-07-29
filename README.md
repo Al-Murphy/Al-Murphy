@@ -21,8 +21,11 @@ and machine learning. See my [personal website](https://al-murphy.github.io/) to
 **Software**:
 
 * [MungeSumstats](https://github.com/Al-Murphy/MungeSumstats) - _Maintainer & Creator_ - Bioconductor R package for the standardisation and quality control of GWAS summary statistics to address the lack of standardisation in the field. MungeSumstats can handle the most common summary statistic formats, including variant call format (VCF) producing a reformatted, standardised, tabular summary statistic file, VCF or R native data object.
-* [EWCE](https://github.com/NathanSkene/EWCE) - _Maintainer_ - Expression Weighted Celltype Enrichment (EWCE) is an Bioconductor R package to test the cell type specificity of gene lists using a transcriptomic single-cell reference set.
+* [Enformer Celltyping](https://github.com/neurogenomics/EnformerCelltyping) - _Maintainer & Creator_ - a deep learning model which incorporates distal effects of DNA interactions, up to 100,000 base-pairs away, to predict epigenetic signals in previously unseen cell types using DNA and chromatin accessibility data.
+* [chromexpress](https://github.com/neurogenomics/chromexpress) - _Maintainer & Creator_ - Deep learning models for the predictions of gene expression from histone mark signals
 
 **Helpful documentation**:
 
 * [Complete Documentation for Creating and Maintaining a Bioconductor package](https://github.com/neurogenomics/labwiki/wiki/Creating-a-Bioconductor-package)
+* [Intro to ML for geonomics](https://github.com/neurogenomics/labwiki/wiki/Intro-to-ML-for-neurogenomics)
+* [Job scripts for a PBS high performance compute cluster (HPC)](https://github.com/neurogenomics/labwiki/wiki/PBS-example-scripts-for-the-Imperial-HPC)
