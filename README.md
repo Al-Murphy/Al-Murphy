@@ -22,7 +22,7 @@ and machine learning. See my [personal website](https://al-murphy.github.io/) to
 
 * [MungeSumstats](https://github.com/Al-Murphy/MungeSumstats) - _Maintainer & Creator_ - Bioconductor R package for the standardisation and quality control of GWAS summary statistics to address the lack of standardisation in the field. MungeSumstats can handle the most common summary statistic formats, including variant call format (VCF) producing a reformatted, standardised, tabular summary statistic file, VCF or R native data object.
 * [Enformer Celltyping](https://github.com/neurogenomics/EnformerCelltyping) - _Maintainer & Creator_ - a deep learning model which incorporates distal effects of DNA interactions, up to 100,000 base-pairs away, to predict epigenetic signals in previously unseen cell types using DNA and chromatin accessibility data.
-* [chromexpress](https://github.com/neurogenomics/chromexpress) - _Maintainer & Creator_ - Deep learning models for the predictions of gene expression from histone mark signals
+* [ChromExpress](https://github.com/neurogenomics/chromexpress) - _Maintainer & Creator_ - Deep learning models for the predictions of gene expression from histone mark signals
 
 **Helpful documentation**:
 
