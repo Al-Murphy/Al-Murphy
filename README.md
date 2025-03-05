@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm a PhD Student in the neurogenomics lab in the UK DRI at Imperial College London. My work focuses on computational biology
-and machine learning. See my [personal website](https://al-murphy.github.io/) to learn more about my work and experience.
+I'm a postdoctoral research scientist, working in the Koo lab at Cold Spring Harbor Laboratory. My work focuses on deep learning for genomics.
+See my [personal website](https://al-murphy.github.io/) to learn more about my work and experience.
 
 **Software**:
 
